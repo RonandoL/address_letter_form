@@ -1,0 +1,32 @@
+.italics {
+  font-style: italic;
+}
+
+.indent {
+  margin-left: 25%;
+}
+
+#letter {
+  display: none;
+}
+
+.letter_header {
+  margin: 10px auto 20px;
+}
+
+hr {
+  width: 85%;
+}
+
+.address {
+  line-height: .7em;
+  margin-bottom: 10px;
+}
+
+.margin_top {
+  margin-top: 45px;
+}
+
+.margin_bottom {
+  margin-bottom: 25px;
+}
